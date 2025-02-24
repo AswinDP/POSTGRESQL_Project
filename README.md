@@ -7,6 +7,8 @@ I learned **PostgreSQL** from **Jose Portilla’s Udemy course**, and I sincerel
 
 All SQL commands, queries, and database structures are **designed and written by me** based on the knowledge gained from the course.  
 
+To populate tables that required a large amount of data, I used Python along with various modules such as pandas, faker, and csv to generate and insert realistic test data efficiently.
+
 ---
 
 ## **📂 About the Database**  
