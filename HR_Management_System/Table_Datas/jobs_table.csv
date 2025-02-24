@@ -1,0 +1,41 @@
+job_id,job_title,min_salary,max_salary,department_id
+1,HR Manager,60000,120000,101
+2,Recruiter,35000,60000,101
+3,Payroll Specialist,40000,75000,101
+4,Training Officer,38000,70000,101
+5,HR Assistant,30000,50000,101
+6,Finance Manager,80000,150000,102
+7,Accountant,45000,90000,102
+8,Auditor,50000,100000,102
+9,Financial Analyst,55000,110000,102
+10,Tax Consultant,50000,95000,102
+11,IT Manager,90000,180000,103
+12,Software Engineer,60000,120000,103
+13,System Admin,50000,90000,103
+14,Database Admin,55000,100000,103
+15,Technical Support,35000,65000,103
+16,Sales Executive,40000,90000,104
+17,Marketing Manager,70000,140000,104
+18,Business Analyst,55000,110000,104
+19,SEO Specialist,45000,85000,104
+20,Content Strategist,40000,80000,104
+21,Admin Manager,60000,110000,105
+22,Office Coordinator,35000,65000,105
+23,Receptionist,25000,45000,105
+24,Facilities Supervisor,40000,75000,105
+25,Document Controller,30000,60000,105
+26,R&D Manager,90000,160000,106
+27,Research Analyst,55000,105000,106
+28,Data Scientist,70000,140000,106
+29,Product Designer,60000,120000,106
+30,Innovation Strategist,65000,130000,106
+31,Customer Support Executive,30000,55000,107
+32,Call Center Agent,25000,45000,107
+33,Support Supervisor,40000,70000,107
+34,Client Relationship Manager,50000,90000,107
+35,Quality Analyst,45000,85000,107
+36,Production Manager,80000,150000,108
+37,Quality Engineer,50000,150000,108
+38,Safety Officer,45000,85000,108
+39,Line Supervisor,40000,75000,108
+40,Machine Operator,30000,55000,108
